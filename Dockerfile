@@ -11,7 +11,7 @@ RUN apk add --no-cache --virtual build-deps py3-pip g++ python3-dev libffi-dev \
     && pip3 install --no-cache-dir --upgrade pygments \
     && pip3 install --no-cache-dir -r requirements.txt \
     && apk del build-deps
-# fetching dependencies
+## fetching cheat sheets
 RUN mkdir -p /root/.cheat.sh/log/ \
     && python3 lib/fetch.py fetch-all
 
