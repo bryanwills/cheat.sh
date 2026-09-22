@@ -212,5 +212,4 @@ If you want to suggest a new feature for cheat.sh, or if you've found a bug,
 please open a new issue on github:
 {1https://github.com/chubin/cheat.sh}
 
-If you want to get the major project updates, follow @igor_chubin in Twitter
-or this RSS feed: {1https://twitrss.me/twitter_user_to_rss/?user=igor_chubin}
+If you want to get the major project updates, follow @igor_chubin in Twitter.
